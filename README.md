@@ -17,7 +17,7 @@ Upload index.php to a PHP server.
     
 ## Standard button for Posterous ###
     
-    <iframe src="http://.../?url={Permalink}&size=tall" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" style="border:0;width:110px;height:30px;"></iframe>
+    <iframe src="http://.../?url={Permalink}" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" style="border:0;width:110px;height:30px;"></iframe>
 
 # Demo #
 
