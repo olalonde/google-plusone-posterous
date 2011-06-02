@@ -19,3 +19,6 @@ Upload index.php to a PHP server.
     
     <iframe src="http://.../?url={Permalink}&size=tall" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" style="border:0;width:110px;height:30px;"></iframe>
 
+# Demo #
+
+[Olivier Lalonde's Posterous](http://www.syskall.com)
