@@ -1,3 +1,5 @@
+See [Adding Google's +1 (plus one) button to your Posterous](http://syskall.com/adding-googles-1-plus-one-button-to-your-post).
+
 This is a small script to add Google +1 to a Posterous theme using an iframe. It can also be used wherever Javascript isn't allowed but iframes are.
 
 # Install #
